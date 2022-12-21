@@ -2,7 +2,7 @@
 
 A component library for a portfolio website. It can be used as a generic library for any website.
  
-#Tech Stack
+# Tech Stack
 
 * HTML
 * CSS
