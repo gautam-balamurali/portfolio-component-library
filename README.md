@@ -1,6 +1,7 @@
 # portfolio-component-library
 
-A component library for a portfolio website. It can be used as a generic library for any website.
+* A component library for a portfolio website. 
+* It can be used as a generic library for any website.
 
 # Snapshots
 
