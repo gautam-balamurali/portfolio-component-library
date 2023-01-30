@@ -3,7 +3,7 @@
 * A component library for a portfolio website. 
 * It can be used as a generic library for any website.
 
-# Snapshots
+## Snapshots
 
 ![image](https://user-images.githubusercontent.com/27736288/208904729-603f2617-1da4-46b9-90ea-a97c394a3eab.png)
 
@@ -12,16 +12,16 @@
 ![image](https://user-images.githubusercontent.com/27736288/208904848-32db5a0d-6d19-49b3-860b-31a6a006d20c.png)
 
  
-# Tech Stack
+## Tech Stack
 
 * HTML
 * CSS
 * Netlify
 
-# Preview
+## Preview
 
 [View live](https://gautam-bm-portfolio-component-library.netlify.app/)
 
-# License
+## License
 
 [View license](https://github.com/gautam-balamurali/portfolio-component-library/blob/main/LICENSE.md)
