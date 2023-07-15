@@ -20,8 +20,8 @@
 
 ## Preview
 
-[View live](https://gautam-bm-portfolio-component-library.netlify.app/)
+[View Live](https://gautam-bm-portfolio-component-library.netlify.app/)
 
 ## License
 
-[View license](https://github.com/gautam-balamurali/portfolio-component-library/blob/main/LICENSE.md)
+[View License](https://github.com/gautam-balamurali/portfolio-component-library/blob/main/LICENSE.md)
